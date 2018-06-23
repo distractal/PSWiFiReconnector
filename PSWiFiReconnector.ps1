@@ -28,6 +28,10 @@ TODO:
 - Make packet sampling continuous vs 10-ping sets (if this doesn't work to fix my issue)
 - Move to a new location with better internet!
 
+HOW TO USE:
+Launch with powershell -ExecutionPolicy UnRestricted -file PSWifiReconnector.ps1
+Exit with Ctrl+C
+
 #>
 
 
